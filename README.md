@@ -11,3 +11,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+[Additional Courses can be found on Github Learning Lab by clicking here!](https://lab.github.com/)
